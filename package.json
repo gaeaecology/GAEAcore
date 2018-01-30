@@ -1,20 +1,20 @@
 {
-  "name": "byteballcore",
-  "description": "Byteball Core",
-  "author": "Byteball",
+  "name": "GAEAcore",
+  "description": "GAEA Core",
+  "author": "GAEA",
   "version": "0.2.86",
   "keywords": [
-    "byteball",
+    "GAEA",
     "multisignature"
   ],
-  "homepage": "https://github.com/byteball/byteballcore",
+  "homepage": "https://github.com/GAEA/GAEAcore",
   "license": "MIT",
   "repository": {
-    "url": "git://github.com/byteball/byteballcore.git",
+    "url": "git://github.com/GAEA/GAEAcore.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/byteball/byteballcore/issues"
+    "url": "https://github.com/GAEA/GAEAcore/issues"
   },
   "browser": {
     "request": "browser-request",
